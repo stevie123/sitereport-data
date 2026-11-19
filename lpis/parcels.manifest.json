@@ -1,0 +1,19 @@
+{
+ "file": "parcels.sqlite",
+ "bytes": 753922048,
+ "sha256": "b85b100aa98ac715e7f034981f864f020cdb0ee5c1ddfa3c5fab6de8893044f2",
+ "parts": [
+  "https://raw.githubusercontent.com/stevie123/sitereport-data/main/lpis/parcels.sqlite.00",
+  "https://raw.githubusercontent.com/stevie123/sitereport-data/main/lpis/parcels.sqlite.01",
+  "https://raw.githubusercontent.com/stevie123/sitereport-data/main/lpis/parcels.sqlite.02",
+  "https://raw.githubusercontent.com/stevie123/sitereport-data/main/lpis/parcels.sqlite.03",
+  "https://raw.githubusercontent.com/stevie123/sitereport-data/main/lpis/parcels.sqlite.04",
+  "https://raw.githubusercontent.com/stevie123/sitereport-data/main/lpis/parcels.sqlite.05",
+  "https://raw.githubusercontent.com/stevie123/sitereport-data/main/lpis/parcels.sqlite.06",
+  "https://raw.githubusercontent.com/stevie123/sitereport-data/main/lpis/parcels.sqlite.07"
+ ],
+ "licence": "DAFM anonymised LPIS 2025, CC BY 4.0",
+ "built": "2026-11-19",
+ "tolerance_m": 2.5,
+ "parcels": 4922074
+}
